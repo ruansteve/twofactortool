@@ -1,0 +1,4 @@
+* Twofactor CLI
+
+
+Simple program to take totp key from stdin and generate temporary passcode
